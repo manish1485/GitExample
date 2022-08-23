@@ -18,7 +18,7 @@ public class TC01_LoginPageTest {
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("Automation", Keys.ENTER);
 		driver.quit();
-
+		System.out.println("Changes made by Manish");
 	}
 
 	public void test2() {

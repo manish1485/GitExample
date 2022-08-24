@@ -20,7 +20,7 @@ public class TC01_LoginPageTest {
 		driver.quit();
 		System.out.println("Changes made by Manish");
 		System.out.println("develop branch changes");
-		System.out.println("today changes");
+		System.out.println("today changes1");
 	}
 
 	public void test2() {
